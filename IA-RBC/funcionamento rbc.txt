@@ -1,0 +1,42 @@
+novocaso(swing)
+preencher ComboBox:
+preenche combo com Valores
+
+Dao -> pegarTodos
+
+pega valores para o novo Caso
+
+se todos preenchidos -> envia um arraylist com os valores
+
+casoproblema(swing)
+abre caso problema:
+
+recebe os valores
+preenche lista
+passa esses valores para classe calcularSimilaridade
+calcula similaridade:
+
+cada caso recebera uma porcentagem de similaridade:
+
+similaridade = 
+pega o novo valor passado, e o valor desse atributo do caso que ja esta no banco,
+pega o peso desse atributo
+
+calcula o valor do caso:
+atributo atual, o novo valor passado para esse atributo, e o valor desse atributo no caso existente
+
+(subtrai o valor novo pelo valor do atributo do caso - divide isso pelo valor maior desse atributo) * peso desse atributo
+
+nao similaridade: 
+
+valor da similaridade é igual ao valor do atributo do caso ja existente.
+
+divide a similaridade por 214 * 100 para achar porcentagem, adiciona esse caso para a lista.
+Mostra tabela dos casos
+
+seleciona um caso, nao pode ser 100% igual.
+
+abre reterproblemas(swing)
+
+passa os casos, o caso selecionado e o casoproblema
+

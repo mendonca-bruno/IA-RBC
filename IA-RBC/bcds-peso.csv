@@ -1,0 +1,35 @@
+1;date;2
+2;plant-stand;5
+3;precip;6
+4;temp;4
+5;hail;3
+6;crop-hist;1
+7;area-damaged;3
+8;severity;3
+9;seed-tmt;1
+10;germination;1
+11;plant-growth;8
+12;leaves;8
+13;leafspots-halo;6
+14;leafspots-marg;7
+15;leafspot-size;7
+16;leaf-shread;7
+17;leaf-malf;7
+18;leaf-mild;8
+19;stem;8
+20;lodging;6
+21;stem-cankers;7
+22;canker-lesion;7
+23;fruiting-bodies;7
+24;external decay;7
+25;mycelium;8
+26;int-discolor;8
+27;sclerotia;8
+28;fruit-pods;8
+29;fruit spots;7
+30;seed;7
+31;mold-growth;8
+32;seed-discolor;7
+33;seed-size;8
+34;shriveling;8
+35;roots;8
